@@ -1,3 +1,13 @@
 body {
     background-color: lightskyblue;
 }
+
+table{
+    border-collapse: separate;
+    border: 2px black
+}
+
+th {
+    border: 1px darkgrey;
+
+}
