@@ -3,11 +3,11 @@ body {
 }
 
 table{
-    border-collapse: separate;
-    border: 2px black
+    border-collapse: collapse;
+    border: 2px solid black
 }
 
 th {
-    border: 1px darkgrey;
+    border: 1px solid darkgrey;
 
 }
